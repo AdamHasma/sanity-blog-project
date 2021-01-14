@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: verdana;
+  padding: 50px 100px;
+}
+
+.blog-image {
+  width: 300px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+#output{
+  width: 500px;
+}
+
+.blog-container {
+  margin: 30px 0px 10px;
+}
+
+a {
+  width: 500px;
+  color: initial;
+  text-decoration: initial;
+}
+
+.blog-container h1 {
+  margin-bottom: 10px;
+}
